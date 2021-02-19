@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ionic-react",
+  "appId": "com.wireservers.bmicalculator",
+  "appName": "bmi-calculator",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
